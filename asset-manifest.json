@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple_Cardtask_React/static/css/main.b5af8f99.chunk.css",
+    "main.js": "/Simple_Cardtask_React/static/js/main.8f5f416e.chunk.js",
+    "main.js.map": "/Simple_Cardtask_React/static/js/main.8f5f416e.chunk.js.map",
+    "runtime-main.js": "/Simple_Cardtask_React/static/js/runtime-main.977d8403.js",
+    "runtime-main.js.map": "/Simple_Cardtask_React/static/js/runtime-main.977d8403.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Simple_Cardtask_React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d511d652.chunk.js": "/Simple_Cardtask_React/static/js/2.d511d652.chunk.js",
+    "static/js/2.d511d652.chunk.js.map": "/Simple_Cardtask_React/static/js/2.d511d652.chunk.js.map",
+    "static/js/3.3cbaac27.chunk.js": "/Simple_Cardtask_React/static/js/3.3cbaac27.chunk.js",
+    "static/js/3.3cbaac27.chunk.js.map": "/Simple_Cardtask_React/static/js/3.3cbaac27.chunk.js.map",
+    "index.html": "/Simple_Cardtask_React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Simple_Cardtask_React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b5af8f99.chunk.css.map": "/Simple_Cardtask_React/static/css/main.b5af8f99.chunk.css.map",
+    "static/js/2.d511d652.chunk.js.LICENSE.txt": "/Simple_Cardtask_React/static/js/2.d511d652.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977d8403.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d511d652.chunk.js",
+    "static/css/main.b5af8f99.chunk.css",
+    "static/js/main.8f5f416e.chunk.js"
+  ]
+}

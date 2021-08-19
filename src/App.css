@@ -1,38 +1,49 @@
-.App {
+.container {
+  background-image: linear-gradient(to right, blue, skyblue);
+  margin-top: 20px;
+  /* letter-spacing: 1px; */
+}
+
+.card {
+  margin: 30px;
   text-align: center;
+  padding: 10px;
+  transition: margin-top 1s;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card .card-name {
+  color: gray;
+  font-size: 15px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card .card-price {
+  font-size: 60px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card .card-price-month {
+  font-size: 15px;
+  font-weight: 500;
 }
 
-.App-link {
-  color: #61dafb;
+.card .card-info {
+  text-align: left;
+  padding: 0px 18px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card .card-info .cross {
+  color: rgb(204, 194, 194);
+}
+
+.card button {
+  letter-spacing: 1px;
+  background-color: rgb(49, 49, 211);
+  border-radius: 50px;
+}
+
+.card:hover {
+  margin-top: 20px;
+}
+
+.card:hover > button {
+  background-color: blue;
 }
